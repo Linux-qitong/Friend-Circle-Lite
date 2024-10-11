@@ -48,7 +48,7 @@ rss_subscribe:
 smtp:
   email: qingzhi@linux-qitong.top 
   server: smtphz.qiye.163.com
-  port: 465
+  port: 994
   use_tls: false
 
 # 特殊RSS地址指定
