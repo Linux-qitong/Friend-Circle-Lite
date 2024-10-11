@@ -48,8 +48,8 @@ rss_subscribe:
 smtp:
   email: qingzhi@linux-qitong.top 
   server: smtphz.qiye.163.com
-  port: 465
-  use_tls: true
+  port: 25
+  use_tls: false
 
 # 特殊RSS地址指定
 # 解释：用于指定特殊RSS地址，如B站专栏等不常见RSS地址后缀，可以添加多个
