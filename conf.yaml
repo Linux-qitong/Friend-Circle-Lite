@@ -8,11 +8,11 @@
 #     marge_json_path:  请填写网络地址的json文件，用于合并，不带空格！！！
 spider_settings:
   enable: true
-  json_url: "https://blog.liushen.fun/friend.json"
+  json_url: "https://blog.linux-qitong.top/friend.json"
   article_count: 5
   merge_result:
     enable: false
-    merge_json_url: "https://fc.liushen.fun"
+    merge_json_url: "https://blog.linux-qitong.top"
 
 # 邮箱推送功能配置，暂未实现，等待后续开发
 # 解释：每天为指定邮箱推送所有友链文章的更新，仅能指定一个
@@ -36,9 +36,9 @@ email_push:
 #     title:            你的博客标题，如果启用了推送，用于生成邮件主题
 rss_subscribe:
   enable: true
-  github_username: willow-god
+  github_username: Linux-qitong
   github_repo: Friend-Circle-Lite
-  your_blog_url: https://blog.liushen.fun/
+  your_blog_url: https://blog.linux-qitong.top/
   email_template: "./rss_subscribe/email_template.html"
   website_info:
     title: "清羽飞扬"
@@ -50,9 +50,9 @@ rss_subscribe:
 #   port：              SMTP 端口号
 #   use_tls：           是否使用 tls 加密
 smtp:
-  email: 3162475700@qq.com
-  server: smtp.qq.com
-  port: 587
+  email: qingzhi@linux-qitong.top
+  server: smtphz.qiye.163.com
+  port: 465
   use_tls: true
 
 # 特殊RSS地址指定，可以置空但是不要删除！
@@ -60,7 +60,5 @@ smtp:
 #   name:               友链名称
 #   url:                指定的RSS地址
 specific_RSS:
-  # - name: "Redish101"
-  #   url: "https://reblog.redish101.top/api/feed"
-  # - name: "無名小栈"
-  #   url: "https://blog.imsyy.top/rss.xml"
+  - name: "Redish101"
+    url: "https://reblog.redish101.top/api/feed"
