@@ -62,3 +62,5 @@ smtp:
 specific_RSS:
   - name: "Redish101"
     url: "https://reblog.redish101.top/api/feed"
+  - name: " Snowball_233"
+    url: "https://blog.qwq.my/feed"
