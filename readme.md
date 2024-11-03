@@ -86,13 +86,9 @@
 ## 友链展示页面
 
 * [清羽飞扬の朋友圈](https://blog.liushen.fun/fcircle/)
-* 
-* [青稚の朋友圈](https://blog.starsharbor.com/fcircle/)
-* 
+* [青稚の朋友圈](https://blog.linux-qitong.top/fcircle/)
 * [星港の朋友圈](https://blog.starsharbor.com/fcircle/)
-
 * [梦爱吃鱼の友链朋友圈](https://blog.bsgun.cn/fcircle/)
-
 * 欢迎在issue中[提交](https://github.com/willow-god/Friend-Circle-Lite/issues/20)以展示你独特的设计！
 
 ## 项目介绍
