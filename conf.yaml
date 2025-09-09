@@ -41,7 +41,7 @@ rss_subscribe:
   your_blog_url: https://blog.linux-qitong.top
   email_template: "./push_templates/default.html"
   website_info:
-    title: "清羽飞扬"
+    title: "青稚の空间"
 
 # SMTP 配置
 # 解释：使用其中的相关配置实现上面两种功能，若无推送要求可以不配置，请将以上两个配置置为false
